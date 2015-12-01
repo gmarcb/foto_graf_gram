@@ -27,6 +27,8 @@ gem "haml"
 
 gem "paperclip", "~> 4.3"
 
+gem 'simple_form', '~> 3.1.0'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
